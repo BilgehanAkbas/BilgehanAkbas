@@ -29,8 +29,8 @@
 |---|---|
 | [**Smart Library Smart-Seat**](https://bilgehanakbas.github.io/smart-seat.html) | YOLOv8 & OpenCV ile kütüphane doluluk oranlarını otomatik takip eden yapay zekâ sistemi |
 | [**ToDo Project**](https://bilgehanakbas.github.io/todo-project.html) | Java Spring Boot ile geliştirilmiş görev/not yönetimi web uygulaması |
-| [**Mobius Chess**](https://bilgehanakbas.github.io/mobius-chess.html) *(geliştiriliyor)* | Three.js/WebGL ile non-Euclidean topolojili satranç varyantı |
-| [**ESP32 Akıllı Sensör**](https://bilgehanakbas.github.io/esp32.html) *(geliştiriliyor)* | ESP32-WROOM-32U ve harici anten ile uçtan uca ağ entegrasyon projesi |
+| [**Mobius Chess**](https://bilgehanakbas.github.io/mobius-chess.html) | Three.js/WebGL ile non-Euclidean topolojili satranç varyantı |
+| [**ESP32 Akıllı Sensör**](https://bilgehanakbas.github.io/esp32.html) | ESP32-WROOM-32U ve harici anten ile uçtan uca ağ entegrasyon projesi |
 
 ---
 
