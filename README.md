@@ -12,15 +12,7 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak akademik ve pratik serü
 
 ### 🛠️ Yetenekler & Teknolojiler
 
-| Yetenekler |
-|---|
-| Python |
-| C# |
-| Java |
-| C |
-| Ağ Yönetimi |
-| Linux |
-| ESP32 |
+**Python** · **C#** · **Java** · **C** · **Ağ Yönetimi** · **Linux** · **ESP32**
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=py,cs,java,c,arduino,linux,cpp,git,github&theme=dark" />
@@ -28,11 +20,9 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak akademik ve pratik serü
 
 ### 📫 İletişim
 
-<p align="left">
-<a href="https://linkedin.com/in/bilgehan-akbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://medium.com/@bilgehanakbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/bilgehan-akbas" target="blank"><img align="center" src="https://images.credly.com/images/9ab5a1d0-fc38-449a-a2cf-9c6d70073da1/credly_logo_Blue.png" alt="credly" height="30" width="30" /></a>
-<a href="mailto:bilgehanakbas0@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilgehan-akbas)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bilgehanakbas)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bilgehan-akbas)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilgehanakbas0@gmail.com)
 
 **bilgehanakbas0@gmail.com** · [Portfolyo](https://bilgehanakbas.github.io/) · [CV İndir](https://bilgehanakbas.github.io/cv.pdf)
