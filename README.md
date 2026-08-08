@@ -10,12 +10,16 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak akademik ve pratik serü
 - 🎓 Gazi Üniversitesi, Bilgisayar Mühendisliği
 - 🏫 Muğla 75. Yıl Fen Lisesi
 
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/BilgehanAkbas/BilgehanAkbas/output/github-contribution-grid-snake-dark.svg)
+
 ### 🛠️ Yetenekler & Teknolojiler
 
 **Python** · **C#** · **Java** · **C** · **Ağ Yönetimi** · **Linux** · **ESP32**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,cs,java,c,linux,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,cs,java,c,arduino,linux,git,github&theme=dark" />
 </p>
 
 ### 📫 İletişim
