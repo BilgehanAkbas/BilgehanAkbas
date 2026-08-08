@@ -1,0 +1,264 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="569" height="559"
+     viewBox="0 0 569 559">
+  <style>
+    .bg { fill: #0d1117; }
+    rect.wipe {
+      transform: scaleX(0);
+      transform-box: fill-box;
+      transform-origin: left;
+      animation: wipeIn 0.35s steps(24) forwards;
+    }
+    @keyframes wipeIn {
+      from { transform: scaleX(0); }
+      to   { transform: scaleX(1); }
+    }
+  </style>
+  <rect class="bg" x="0" y="0" width="569" height="559" rx="6" />
+  <defs>
+  
+    <clipPath id="clip0">
+      <rect x="0" y="10" width="549.0" height="11" class="wipe" style="animation-delay:0.00s" />
+    </clipPath>
+  
+    <clipPath id="clip1">
+      <rect x="0" y="21" width="549.0" height="11" class="wipe" style="animation-delay:0.09s" />
+    </clipPath>
+  
+    <clipPath id="clip2">
+      <rect x="0" y="32" width="549.0" height="11" class="wipe" style="animation-delay:0.18s" />
+    </clipPath>
+  
+    <clipPath id="clip3">
+      <rect x="0" y="43" width="549.0" height="11" class="wipe" style="animation-delay:0.27s" />
+    </clipPath>
+  
+    <clipPath id="clip4">
+      <rect x="0" y="54" width="549.0" height="11" class="wipe" style="animation-delay:0.36s" />
+    </clipPath>
+  
+    <clipPath id="clip5">
+      <rect x="0" y="65" width="549.0" height="11" class="wipe" style="animation-delay:0.45s" />
+    </clipPath>
+  
+    <clipPath id="clip6">
+      <rect x="0" y="76" width="549.0" height="11" class="wipe" style="animation-delay:0.54s" />
+    </clipPath>
+  
+    <clipPath id="clip7">
+      <rect x="0" y="87" width="549.0" height="11" class="wipe" style="animation-delay:0.63s" />
+    </clipPath>
+  
+    <clipPath id="clip8">
+      <rect x="0" y="98" width="549.0" height="11" class="wipe" style="animation-delay:0.72s" />
+    </clipPath>
+  
+    <clipPath id="clip9">
+      <rect x="0" y="109" width="549.0" height="11" class="wipe" style="animation-delay:0.81s" />
+    </clipPath>
+  
+    <clipPath id="clip10">
+      <rect x="0" y="120" width="549.0" height="11" class="wipe" style="animation-delay:0.90s" />
+    </clipPath>
+  
+    <clipPath id="clip11">
+      <rect x="0" y="131" width="549.0" height="11" class="wipe" style="animation-delay:0.99s" />
+    </clipPath>
+  
+    <clipPath id="clip12">
+      <rect x="0" y="142" width="549.0" height="11" class="wipe" style="animation-delay:1.08s" />
+    </clipPath>
+  
+    <clipPath id="clip13">
+      <rect x="0" y="153" width="549.0" height="11" class="wipe" style="animation-delay:1.17s" />
+    </clipPath>
+  
+    <clipPath id="clip14">
+      <rect x="0" y="164" width="549.0" height="11" class="wipe" style="animation-delay:1.26s" />
+    </clipPath>
+  
+    <clipPath id="clip15">
+      <rect x="0" y="175" width="549.0" height="11" class="wipe" style="animation-delay:1.35s" />
+    </clipPath>
+  
+    <clipPath id="clip16">
+      <rect x="0" y="186" width="549.0" height="11" class="wipe" style="animation-delay:1.44s" />
+    </clipPath>
+  
+    <clipPath id="clip17">
+      <rect x="0" y="197" width="549.0" height="11" class="wipe" style="animation-delay:1.53s" />
+    </clipPath>
+  
+    <clipPath id="clip18">
+      <rect x="0" y="208" width="549.0" height="11" class="wipe" style="animation-delay:1.62s" />
+    </clipPath>
+  
+    <clipPath id="clip19">
+      <rect x="0" y="219" width="549.0" height="11" class="wipe" style="animation-delay:1.71s" />
+    </clipPath>
+  
+    <clipPath id="clip20">
+      <rect x="0" y="230" width="549.0" height="11" class="wipe" style="animation-delay:1.80s" />
+    </clipPath>
+  
+    <clipPath id="clip21">
+      <rect x="0" y="241" width="549.0" height="11" class="wipe" style="animation-delay:1.89s" />
+    </clipPath>
+  
+    <clipPath id="clip22">
+      <rect x="0" y="252" width="549.0" height="11" class="wipe" style="animation-delay:1.98s" />
+    </clipPath>
+  
+    <clipPath id="clip23">
+      <rect x="0" y="263" width="549.0" height="11" class="wipe" style="animation-delay:2.07s" />
+    </clipPath>
+  
+    <clipPath id="clip24">
+      <rect x="0" y="274" width="549.0" height="11" class="wipe" style="animation-delay:2.16s" />
+    </clipPath>
+  
+    <clipPath id="clip25">
+      <rect x="0" y="285" width="549.0" height="11" class="wipe" style="animation-delay:2.25s" />
+    </clipPath>
+  
+    <clipPath id="clip26">
+      <rect x="0" y="296" width="549.0" height="11" class="wipe" style="animation-delay:2.34s" />
+    </clipPath>
+  
+    <clipPath id="clip27">
+      <rect x="0" y="307" width="549.0" height="11" class="wipe" style="animation-delay:2.43s" />
+    </clipPath>
+  
+    <clipPath id="clip28">
+      <rect x="0" y="318" width="549.0" height="11" class="wipe" style="animation-delay:2.52s" />
+    </clipPath>
+  
+    <clipPath id="clip29">
+      <rect x="0" y="329" width="549.0" height="11" class="wipe" style="animation-delay:2.61s" />
+    </clipPath>
+  
+    <clipPath id="clip30">
+      <rect x="0" y="340" width="549.0" height="11" class="wipe" style="animation-delay:2.70s" />
+    </clipPath>
+  
+    <clipPath id="clip31">
+      <rect x="0" y="351" width="549.0" height="11" class="wipe" style="animation-delay:2.79s" />
+    </clipPath>
+  
+    <clipPath id="clip32">
+      <rect x="0" y="362" width="549.0" height="11" class="wipe" style="animation-delay:2.88s" />
+    </clipPath>
+  
+    <clipPath id="clip33">
+      <rect x="0" y="373" width="549.0" height="11" class="wipe" style="animation-delay:2.97s" />
+    </clipPath>
+  
+    <clipPath id="clip34">
+      <rect x="0" y="384" width="549.0" height="11" class="wipe" style="animation-delay:3.06s" />
+    </clipPath>
+  
+    <clipPath id="clip35">
+      <rect x="0" y="395" width="549.0" height="11" class="wipe" style="animation-delay:3.15s" />
+    </clipPath>
+  
+    <clipPath id="clip36">
+      <rect x="0" y="406" width="549.0" height="11" class="wipe" style="animation-delay:3.24s" />
+    </clipPath>
+  
+    <clipPath id="clip37">
+      <rect x="0" y="417" width="549.0" height="11" class="wipe" style="animation-delay:3.33s" />
+    </clipPath>
+  
+    <clipPath id="clip38">
+      <rect x="0" y="428" width="549.0" height="11" class="wipe" style="animation-delay:3.42s" />
+    </clipPath>
+  
+    <clipPath id="clip39">
+      <rect x="0" y="439" width="549.0" height="11" class="wipe" style="animation-delay:3.51s" />
+    </clipPath>
+  
+    <clipPath id="clip40">
+      <rect x="0" y="450" width="549.0" height="11" class="wipe" style="animation-delay:3.60s" />
+    </clipPath>
+  
+    <clipPath id="clip41">
+      <rect x="0" y="461" width="549.0" height="11" class="wipe" style="animation-delay:3.69s" />
+    </clipPath>
+  
+    <clipPath id="clip42">
+      <rect x="0" y="472" width="549.0" height="11" class="wipe" style="animation-delay:3.78s" />
+    </clipPath>
+  
+    <clipPath id="clip43">
+      <rect x="0" y="483" width="549.0" height="11" class="wipe" style="animation-delay:3.87s" />
+    </clipPath>
+  
+    <clipPath id="clip44">
+      <rect x="0" y="494" width="549.0" height="11" class="wipe" style="animation-delay:3.96s" />
+    </clipPath>
+  
+    <clipPath id="clip45">
+      <rect x="0" y="505" width="549.0" height="11" class="wipe" style="animation-delay:4.05s" />
+    </clipPath>
+  
+    <clipPath id="clip46">
+      <rect x="0" y="516" width="549.0" height="11" class="wipe" style="animation-delay:4.14s" />
+    </clipPath>
+  
+    <clipPath id="clip47">
+      <rect x="0" y="527" width="549.0" height="11" class="wipe" style="animation-delay:4.23s" />
+    </clipPath>
+  
+    <clipPath id="clip48">
+      <rect x="0" y="538" width="549.0" height="11" class="wipe" style="animation-delay:4.32s" />
+    </clipPath>
+  </defs>
+  <text x="10" y="21" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip0)">                                                                                          </text>
+  <text x="10" y="32" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip1)">                                                                                          </text>
+  <text x="10" y="43" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip2)">                                                                                          </text>
+  <text x="10" y="54" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip3)">                                                                                          </text>
+  <text x="10" y="65" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip4)">                                                                                          </text>
+  <text x="10" y="76" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip5)">                                                                                          </text>
+  <text x="10" y="87" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip6)">                                                                                          </text>
+  <text x="10" y="98" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip7)">                                                                                          </text>
+  <text x="10" y="109" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip8)">                                                                                          </text>
+  <text x="10" y="120" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip9)">                                       .`.`..                                             </text>
+  <text x="10" y="131" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip10)">                                   .-*ccscscc*+:                                          </text>
+  <text x="10" y="142" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip11)">                                  =c#scccccccs#sc.                                        </text>
+  <text x="10" y="153" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip12)">                                 *#s*=-:`````:=c%*                                        </text>
+  <text x="10" y="164" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip13)">                                `#c=::`.......`:+c=                                       </text>
+  <text x="10" y="175" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip14)">                                :s=:::````````:::*c                                       </text>
+  <text x="10" y="186" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip15)">                                `s+-=====:`-+=--:+s`                                      </text>
+  <text x="10" y="197" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip16)">                                .s+-=+*+=-.`=+--`=s:                                      </text>
+  <text x="10" y="208" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip17)">                                 *+:::::-:``.....-+-                                      </text>
+  <text x="10" y="219" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip18)">                                 ==::``:==--``..`--:                                      </text>
+  <text x="10" y="230" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip19)">                                 :=-:::-==--:````-:.                                      </text>
+  <text x="10" y="241" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip20)">                                  `--::=+++=-:``:-`                                       </text>
+  <text x="10" y="252" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip21)">                                   .=-::::-:..`-==                                        </text>
+  <text x="10" y="263" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip22)">                                    `=====---===:`-                                       </text>
+  <text x="10" y="274" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip23)">                                    .--++***+=-``.-s:                                     </text>
+  <text x="10" y="285" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip24)">                                    `-:-====-:::- +##c:                                   </text>
+  <text x="10" y="296" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip25)">                                 `=c=-+-===--:--.:ssss#c+-`                               </text>
+  <text x="10" y="307" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip26)">                             .-+c###c`++--=---: .csssss###sc+-`.                          </text>
+  <text x="10" y="318" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip27)">                         .:=*s##sss#c``+=:---:..*ssssssssssssscc*=:.                      </text>
+  <text x="10" y="329" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip28)">                        =ssssssssss#*``.:::-:``-ssssssssssssccccsssc.                     </text>
+  <text x="10" y="340" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip29)">                       :#sccsssssss#+``` .-`.``*sssssscssssscccssccc:                     </text>
+  <text x="10" y="351" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip30)">                       +sssccsccssss+ .. .....-sssssssssssssccsssscs-                     </text>
+  <text x="10" y="362" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip31)">                      .csscccsccssss+  .. .  `cssssscsssssscccsssscc*.                    </text>
+  <text x="10" y="373" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip32)">                      =ssscccsscssss* .`.   .=sssssssssssssscsssssscs:                    </text>
+  <text x="10" y="384" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip33)">                     .ccsscccsssssssc`.:  .`:csssssssssssssscssssssss=                    </text>
+  <text x="10" y="395" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip34)">                     -sss#scsssscsssc: `...:+ssssssssssssssss#sssssss+                    </text>
+  <text x="10" y="406" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip35)">                     *sss#scsssssssss=.`..`=sssss#ssssssssss##cssssccc.                   </text>
+  <text x="10" y="417" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip36)">                    .csss#scssssscsss+.`..`*ssss##ssssssssss##cssscccc:                   </text>
+  <text x="10" y="428" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip37)">                    `scss##ccssssssssc:.`.:ssss##ss##sssssss%#sssscccc=                   </text>
+  <text x="10" y="439" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip38)">                    -scsss#sccsssssssc-``.+scs##ssssssssssss%#sccccccc+                   </text>
+  <text x="10" y="450" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip39)">                    *ccsss#sccsssssccc+:`:ccs#ssssssssssccs#%ssccccccc*                   </text>
+  <text x="10" y="461" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip40)">                   `cccsss##cccsssssccc=`+ss##sssssssssccss##ssscccccc*                   </text>
+  <text x="10" y="472" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip41)">                   -sccsss##ccccssssscsc=c#%#sssssssssscsss##sssccsccc*.                  </text>
+  <text x="10" y="483" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip42)">                   *sccs####sccsssss#ss#s##ssssssssssssssss###sssscccc*.                  </text>
+  <text x="10" y="494" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip43)">                  .ccccs###%#ccssssss###sssssssssssssssssss%##sscccccc*                   </text>
+  <text x="10" y="505" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip44)">                  `ccsss#####cccsssss##sssssssssssssssssss#%#scccccccc*                   </text>
+  <text x="10" y="516" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip45)">                  +#scss#ss#%sccssssss##ssssssssssssssssss##sscccccccc+                   </text>
+  <text x="10" y="527" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip46)">                  *ccccs###%scccssssss##ssssssssss#sssssss%#sssssscccc+                   </text>
+  <text x="10" y="538" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip47)">                  =cccccs####ccsssssss##cssssssss##ssssss#%#sscccssscc=                   </text>
+  <text x="10" y="549" xml:space="preserve" font-family="'Courier New', monospace" font-size="11" fill="#c9d1d9" clip-path="url(#clip48)">                  .ccccccs###sssssssss##ssssssss###ssssss#%%#sssccccss-                   </text>
+</svg>
