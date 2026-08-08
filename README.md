@@ -15,7 +15,7 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak akademik ve pratik serü
 **Python** · **C#** · **Java** · **C** · **Ağ Yönetimi** · **Linux** · **ESP32**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,cs,java,c,arduino,linux,cpp,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,cs,java,c,linux,git&theme=dark" />
 </p>
 
 ### 📫 İletişim
