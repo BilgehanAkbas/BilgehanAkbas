@@ -7,13 +7,13 @@ Yazılım ve donanımı bir arada düşünmeyi seviyorum. Bir yandan siber güve
 
 Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak akademik ve pratik serüvenime tüm hızımla devam ediyorum. Akbank Siber Güvenlik Analistliği eğitimimi başarıyla tamamlayıp defansif güvenlik bakış açımı sağlamlaştırdım. Aynı zamanda, okulumdaki Yapay Zekâ Topluluğu'nda Başkan Yardımcısı olarak harika bir ekiple beraber teknoloji odaklı etkinlikler koordine ediyorum.
 
-- 🎓 Gazi Üniversitesi, Bilgisayar Mühendisliği 
+- 🎓 Gazi Üniversitesi, Bilgisayar Mühendisliği
 - 🏫 Muğla 75. Yıl Fen Lisesi
 
 ### 🛠️ Yetenekler & Teknolojiler
 
 | Yetenekler |
-|---|---|
+|---|
 | Python |
 | C# |
 | Java |
